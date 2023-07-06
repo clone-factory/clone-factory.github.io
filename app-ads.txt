@@ -176,6 +176,7 @@ spotxchange.com, 307720, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
 stroeer.com, 17355, RESELLER
 stroeer.com, 17379, RESELLER
+tappx.com, j4e2f871a, DIRECT, 9f375a07da0318ec
 thebrave.io, 1234594, RESELLER, c25b2154543746ac
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
 thebrave.io, 1234648, RESELLER, c25b2154543746ac
@@ -205,6 +206,7 @@ xandr.com, 13799, RESELLER
 xandr.com, 7353, RESELLER, f5ab79cb980f11d1
 xandr.com, 8804, RESELLER, f5ab79cb980f11d1
 xapads.com, 117219, RESELLER
+xapads.com, 155860, RESELLER
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59262, RESELLER
 yahoo.com, 59318, RESELLER
@@ -215,4 +217,3 @@ yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
 yeahmobi.com, 5135347, RESELLER
 yieldlab.net, 2172218, RESELLER
-tappx.com, j4e2f871a, DIRECT, 9f375a07da0318ec
